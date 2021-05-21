@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I'm currently working on:
-  - A web tool for managing large game libraries; similar to `BackLoggery`. Don't expect this anytime soon.
-  - An imageboard (like `Danbooru`/`Shimmie`) built using `Symfony`. This is more of a learning project for me than anything.
+  - A web tool for managing large game libraries; similar to `BackLoggery`.  
+    Don't expect this anytime soon.
+  - An imageboard (like `Danbooru`/`Shimmie`) built using `Symfony`.  
+    This is more of a learning project for me than anything.
   - Open-sourcing some of my closed-source projects! Soon™
 - 🌱 I'm currently learning:
   - For work: `Azure`, `Python`, `Nginx` and a couple of other things at scale.
